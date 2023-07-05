@@ -1,0 +1,9 @@
+build/
+logs/
+.vscode/
+.cache/
+.clangd/
+
+*.txt.user
+compile_commands.json
+build.sh
